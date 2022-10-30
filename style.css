@@ -1,0 +1,12 @@
+.intro{
+  background-color: #9ce4ed;
+}
+
+.intro ul li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.on-me{
+  background-color: #f4dbf3;
+}
